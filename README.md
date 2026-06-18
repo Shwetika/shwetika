@@ -55,6 +55,7 @@ I spend my time turning messy, high-volume data into infrastructure people trust
 ### 🎓 Education
 
 **M.S., Information Systems Management** — Carnegie Mellon University, Heinz College
+
 **B.Tech** — Jaypee Institute of Information Technology
 
 ---
